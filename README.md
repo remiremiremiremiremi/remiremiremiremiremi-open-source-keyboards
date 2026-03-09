@@ -9,4 +9,4 @@ Not all files within this repository have been prototyped, and I am not liable f
 
 Feel free to contact me on discord @ remiremiremiremiimer for any questions!
 
-V2 UPLOADED - ADDED ORING SUPPORT
+V2 - ADDED ORING SUPPORT
