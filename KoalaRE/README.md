@@ -4,6 +4,8 @@ A jane plate TKL inspired by the Koala and KFE
 
 18.9 mm front height from inner lip, 7 degree typing angle.
 
+NOTE: V2 Uploaded to implement oring support.
+
 --PARTS LIST--
 
 SJ5302 Bumpons (4 total)
@@ -15,5 +17,3 @@ M4 x 6 countersunk - Weights Screws (9 total)
 M2.5 x 6 pan or socket head - Plate Screws (7 total)
 
 --Thanks to hali4045 for the remade Jane plate files, and also OTD for the Koala--
-
-NOTE: V2 Uploaded to implement oring support.
