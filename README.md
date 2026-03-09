@@ -8,5 +8,3 @@ Unless otherwise stated, all projects are released under Apache Licence version 
 Not all files within this repository have been prototyped, and I am not liable for any issues in manufacturing.
 
 Feel free to contact me on discord @ remiremiremiremiimer for any questions!
-
-V2 - ADDED ORING SUPPORT
